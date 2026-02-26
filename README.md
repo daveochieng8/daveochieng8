@@ -1,4 +1,4 @@
-# Dave Ochieng
+# Dave Ochieng'
 
 **CX / Data Analyst** focused on turning customer and operational data into clear insights, dashboards, and practical process improvements.  
 I build work that’s easy to understand, easy to trust, and easy to act on.
